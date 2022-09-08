@@ -1,6 +1,6 @@
 ## Setup
 
-In order to maintain confidentiality, please create a private fork of this repository and invite `hilary-b` and `TBD` as collaborators. 
+In order to maintain confidentiality, please create a private fork of this repository and invite `hilary-b` as a collaborator. 
 
 When you have completed the test, please push your changes to your private fork and send a link to hilary.brennan@bluelabs.com. Please include your full name in the subject line of the email containing the repository link. 
 

@@ -22,7 +22,7 @@ What this is **not** designed to test:
 
 <b>If you would normally look something up, it's okay to say or comment "this is where I would look XYZ up"!</b>
 
-The test will be reviewed by two reviewers using the rubric below.  
+The test will be reviewed using the rubric below.  
 
 ## Special notes for take-home candidates
 
