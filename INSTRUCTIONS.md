@@ -10,7 +10,7 @@ Your fork should contain all of the existing files in this repository, as well a
 
 # Instructions
 
-Today is your first day of work at a tee shirt factory. You are given access to a repository called `inventory_manager` containing a large csv file called inventory.csv and a bash script called `show_price.sh`. 
+Today is your first day of work at a tee shirt factory. You are given access to a repository called `inventory_manager` containing a large csv file called inventory.csv and a bash script called `show_stock.sh`. 
 
 1. Translate `show_stock.sh` into a python module (`python_inventory_tools/show_stock.py`) designed to be used in a future package for inventory management. 
 
