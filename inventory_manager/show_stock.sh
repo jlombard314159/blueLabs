@@ -37,8 +37,3 @@ echo "S: $S_STOCK"
 echo "M: $M_STOCK"
 echo "L: $L_STOCK"
 echo "XL: $XL_STOCK"
-
-
-
-
-
