@@ -10,9 +10,9 @@ Your fork should contain all of the existing files in this repository, as well a
 
 # Instructions
 
-Today is your first day of work at a tee shirt factory. You are given access to a repository containing a database schema and a bash script called `reduce_price.sh`. 
+Today is your first day of work at a tee shirt factory. You are given access to a repository called `inventory_manager` containing a large csv file called inventory.csv and a bash script called `reduce_price.sh`. 
 
-1. Translate `reduce_price.sh` into a python module designed to be used in a future package for inventory management. Feel free to use pseudo-SQL or whatever syntax you are most comfortable with for database interactions. 
+1. Translate `reduce_price.sh` into a python module designed to be used in a future package for inventory management. 
 
 2. Create a new module designed to automatically reduce the wholesale price of any color of tee shirt that has not sold at least 60% of its existing inventory within 60 days. 
 
